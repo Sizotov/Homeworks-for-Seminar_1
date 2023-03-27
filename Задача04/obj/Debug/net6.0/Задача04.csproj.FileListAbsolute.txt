@@ -3,3 +3,13 @@
 /Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.AssemblyInfoInputs.cache
 /Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.AssemblyInfo.cs
 /Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.csproj.CoreCompileInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/bin/Debug/net6.0/Задача04
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/bin/Debug/net6.0/Задача04.deps.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/bin/Debug/net6.0/Задача04.runtimeconfig.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/bin/Debug/net6.0/Задача04.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/bin/Debug/net6.0/Задача04.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/refint/Задача04.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.genruntimeconfig.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/ref/Задача04.dll

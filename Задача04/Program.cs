@@ -17,7 +17,7 @@ int b = int.Parse(Console.ReadLine());
 
 Console.Write("Введите третий номер: ");
 
-int с = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
 
 int Max (int a, int b, int c)
 
