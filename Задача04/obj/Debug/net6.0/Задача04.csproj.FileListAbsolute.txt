@@ -1,0 +1,5 @@
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.csproj.AssemblyReference.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.AssemblyInfoInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.AssemblyInfo.cs
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача04/obj/Debug/net6.0/Задача04.csproj.CoreCompileInputs.cache

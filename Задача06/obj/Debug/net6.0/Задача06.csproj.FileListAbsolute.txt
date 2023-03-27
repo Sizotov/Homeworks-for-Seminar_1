@@ -1,0 +1,15 @@
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/bin/Debug/net6.0/Задача06
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/bin/Debug/net6.0/Задача06.deps.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/bin/Debug/net6.0/Задача06.runtimeconfig.json
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/bin/Debug/net6.0/Задача06.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/bin/Debug/net6.0/Задача06.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.csproj.AssemblyReference.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.AssemblyInfoInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.AssemblyInfo.cs
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.csproj.CoreCompileInputs.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/refint/Задача06.dll
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.pdb
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/Задача06.genruntimeconfig.cache
+/Users/mariannaizotova/Desktop/STUDY/C#/ДЗ/Семинар1/Задача06/obj/Debug/net6.0/ref/Задача06.dll
